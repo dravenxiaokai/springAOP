@@ -5,7 +5,8 @@ import ren.draven.service.PersonService;
 public class PersonServiceBean implements PersonService {
 
 	public void save(String name) {
-		System.out.println("我是save方法");
+		throw new RuntimeException("我爱例外");
+//		System.out.println("我是save方法");
 	}
 
 	public void update(String name, Integer id) {
