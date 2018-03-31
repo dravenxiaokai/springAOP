@@ -4,8 +4,8 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="D:/devtools/soft/struts-2.3.34-all/struts-2.3.34/lib/commons-logging-1.1.3.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring"/>
-	<classpathentry kind="lib" path="D:/devtools/soft/aspectjweaver-1.6.12.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
-	<classpathentry kind="lib" path="D:/devtools/soft/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/devtools/soft/spring-aop-extra/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/devtools/soft/spring-aop-extra/aspectjweaver-1.6.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
